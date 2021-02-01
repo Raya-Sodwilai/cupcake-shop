@@ -1,0 +1,24 @@
+h1 {
+  color:palevioletred;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+  color: tan;
+}
+
+p {
+  color: rgb(199, 151, 90);
+}
+
+.important {
+  color: palevioletred;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+}
+
